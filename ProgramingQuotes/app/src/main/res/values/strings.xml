@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgramingQuotes</string>
+    <string name="get_quote">GET QUOTE</string>
+    <string name="get_new_qoute">Get New Qoute</string>
+</resources>
